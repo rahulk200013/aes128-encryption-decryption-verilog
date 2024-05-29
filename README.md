@@ -56,6 +56,13 @@ Navigate to the scripts/ directory and run the script:
 python scripts/test_aes128.py
 ```
 
+## Project Files
+The repository contains the following files:
+- Verilog source code
+- Timing analysis reports (Check [Project_Report.pdf](docs/Project_Report.pdf) in docs)
+- Documentation (Check [Project_Report.pdf](docs/Project_Report.pdf) in docs)
+
+
 ### How to Clone and Use the Repository
 ```bash
 git clone https://github.com/yourusername/aes128-encryption-decryption-verilog.git
