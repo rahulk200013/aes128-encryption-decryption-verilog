@@ -40,7 +40,7 @@ This repository contains a project implementing AES128 encryption and decryption
 
 ## Testing
 
-To verify the implementation, use the Python script `test_aes128.py` located in the `scripts/` directory. This script compares the results from the AES128 implementation with the expected outputs.
+To verify the implementation, use the Python script `test_aes128.py` located in the `scripts/` directory. This script can be used to compare the results from the AES128 implementation with the expected outputs.
 
 ### Prerequisites
 
