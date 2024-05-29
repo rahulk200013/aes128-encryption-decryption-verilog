@@ -48,3 +48,16 @@ Ensure you have Python installed and then install the required package:
 
 ```bash
 pip install pycryptodome
+```
+
+### Running the Test Script
+Navigate to the scripts/ directory and run the script:
+```bash
+python scripts/test_aes128.py
+```
+
+### How to Clone and Use the Repository
+```bash
+git clone https://github.com/yourusername/aes128-encryption-decryption-verilog.git
+cd aes128-encryption-decryption-verilog
+```
